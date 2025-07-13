@@ -12,8 +12,18 @@ import logging
 from datetime import datetime
 import os
 
+import subprocess
+subprocess.run(["pip", "install", "requests", "pandas", "numpy",'logger'])
+
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+logging.basicConfig(
+    level=logging.INFO, 
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),  # Console output
+    ]
+)
 logger = logging.getLogger(__name__)
 
 class DrivingDistanceMatrix:
@@ -134,7 +144,7 @@ class DrivingDistanceMatrix:
                     duration_matrix[i, neighbor_idx] = duration
                     distance_matrix[i, neighbor_idx] = distance
                 
-                time.sleep(0.1)
+                time.sleep(0.2)
             
             # Calculate return routes
             for neighbor_idx in neighbor_indices:
@@ -142,19 +152,44 @@ class DrivingDistanceMatrix:
                 duration, distance = self.get_driving_route(origin_neighbor, origin)
                 
                 if duration is not None:
-                    # Fill return route in matrix
-                    duration_matrix[neighbor_idx, i] = duration
-                    distance_matrix[neighbor_idx, i] = distance
+                    # Initialize neighbor results if not exists
+                    if neighbor_idx not in self.results:
+                        self.results[neighbor_idx] = {}
                 
-                time.sleep(0.1)
+                    self.results[neighbor_idx][i] = {
+                        'duration_seconds': duration,
+                        'duration_minutes': round(duration / 60, 2),
+                        'distance_meters': distance,
+                        'distance_km': round(distance / 1000, 2)
+                    }
 
-#Save after every location
-self.save_progress(duration_matrix, distance_matrix, locations, output_dir, i)
+                time.sleep(0.2)
 
             if (i + 1) % 10 == 0:
                 logger.info(f"Completed {i+1}/{total_locations} locations")
+
+            # Convert results to matrices
+                    n_locations = len(locations)
+                    duration_matrix = np.full((n_locations, n_locations), np.inf)
+                    distance_matrix = np.full((n_locations, n_locations), np.inf)
+                    
+            # Set diagonal to 0 (distance from location to itself)
+                    for i in range(n_locations):
+                        duration_matrix[i][i] = 0
+                        distance_matrix[i][i] = 0
+
+# Fill matrices with calculated values
+        for i in range(n_locations):
+            if i in self.results:
+                for j, data in self.results[i].items():
+                    if isinstance(j, int):  # Skip any non-integer keys
+                        duration_matrix[i][j] = data['duration_seconds']
+                        distance_matrix[i][j] = data['distance_meters']
         
+            logger.info(f"Converted results to matrices: {duration_matrix.shape}")
         return duration_matrix, distance_matrix
+    
+        
     
     def save_driving_matrices(self, duration_matrix: np.ndarray, distance_matrix: np.ndarray, 
                             locations: List[Dict], output_dir: str = "driving_results"):
@@ -214,7 +249,7 @@ def load_locations_from_csv(csv_file: str) -> List[Dict]:
     return locations
 
 
-def create_sample_locations_csv(filename: str = "locations_411.csv", num_locations: int = 411):
+'''def create_sample_locations_csv(filename: str = "locations_411.csv", num_locations: int = 411):
     cities = [
         (40.7128, -74.0060, "New York"),
         (34.0522, -118.2437, "Los Angeles"),
@@ -237,7 +272,7 @@ def create_sample_locations_csv(filename: str = "locations_411.csv", num_locatio
     
     df = pd.DataFrame(locations)
     df.to_csv(filename, index=False)
-    logger.info(f"Created sample locations file: {filename}")
+    logger.info(f"Created sample locations file: {filename}")'''
 
 
 def main():
@@ -246,13 +281,13 @@ def main():
     N_NEIGHBORS = 35
     OUTPUT_DIR = "driving_results"
     
-    if API_KEY == "YOUR_GOOGLE_ROUTES_API_KEY_HERE":
+    if API_KEY == "YOUR_GOOGLE_ROUTES_API_KEY_HERE": #Don't put your API key here, this is to make sure you put it in as the code runs
         logger.error("Please set your Google Routes API key!")
         return
     
-    if not os.path.exists(LOCATIONS_FILE):
+    '''if not os.path.exists(LOCATIONS_FILE):
         logger.info("Creating sample locations file...")
-        create_sample_locations_csv(LOCATIONS_FILE, 411)
+        create_sample_locations_csv(LOCATIONS_FILE, 411)'''
     
     logger.info(f"Loading locations from {LOCATIONS_FILE}...")
     locations = load_locations_from_csv(LOCATIONS_FILE)
