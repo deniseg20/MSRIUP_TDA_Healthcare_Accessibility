@@ -278,7 +278,7 @@ def load_locations_from_csv(csv_file: str) -> List[Dict]:
 
 
 def main():
-    API_KEY = "AIzaSyBT4LCd-i5IwOawFOON3Z8xdBG4nZ-80rw"
+    API_KEY = "YOUR_GOOGLE_ROUTES_API_KEY_HERE"
     LOCATIONS_FILE = "coordinates_all.csv"
     N_NEIGHBORS = 2
     OUTPUT_DIR = "public_transport_results"
