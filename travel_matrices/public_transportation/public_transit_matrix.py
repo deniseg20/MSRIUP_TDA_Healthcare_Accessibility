@@ -193,7 +193,7 @@ class PublicTransportDistanceMatrix:
 
 
     def save_public_transport_matrices(self, duration_matrix: np.ndarray, distance_matrix: np.ndarray, 
-                                     locations: List[Dict], output_dir: str = "public_transport_results"):
+                                    locations: List[Dict], output_dir: str = "public_transport_results"):
         """
         Save public transport matrices as CSV files.
         """
@@ -204,29 +204,29 @@ class PublicTransportDistanceMatrix:
         
         # Save duration matrix (seconds)
         duration_df = pd.DataFrame(duration_matrix, 
-                                  index=location_names, 
-                                  columns=location_names)
+                                index=location_names, 
+                                columns=location_names)
         duration_df.to_csv(f"{output_dir}/public_transport_duration_matrix_411_35.csv")
         logger.info(f"Saved public transport duration matrix to {output_dir}/public_transport_duration_matrix_411_35.csv")
         
         # Save duration matrix (minutes)
         duration_minutes_df = pd.DataFrame(duration_matrix / 60, 
-                                          index=location_names, 
-                                          columns=location_names)
+                                        index=location_names, 
+                                        columns=location_names)
         duration_minutes_df.to_csv(f"{output_dir}/public_transport_duration_minutes_matrix_411_35.csv")
         logger.info(f"Saved public transport duration (minutes) matrix to {output_dir}/public_transport_duration_minutes_matrix_411_35.csv")
         
         # Save distance matrix (meters)
         distance_df = pd.DataFrame(distance_matrix, 
-                                  index=location_names, 
-                                  columns=location_names)
+                                index=location_names, 
+                                columns=location_names)
         distance_df.to_csv(f"{output_dir}/public_transport_distance_meters_matrix_411_35.csv")
         logger.info(f"Saved public transport distance (meters) matrix to {output_dir}/public_transport_distance_meters_matrix_411_35.csv")
         
         # Save distance matrix (kilometers)
         distance_km_df = pd.DataFrame(distance_matrix / 1000, 
-                                     index=location_names, 
-                                     columns=location_names)
+                                    index=location_names, 
+                                    columns=location_names)
         distance_km_df.to_csv(f"{output_dir}/public_transport_distance_km_matrix_411_35.csv")
         logger.info(f"Saved public transport distance (km) matrix to {output_dir}/public_transport_distance_km_matrix_411_35.csv")
         
@@ -277,7 +277,7 @@ def load_locations_from_csv(csv_file: str) -> List[Dict]:
 
 
 def main():
-    API_KEY = "AIzaSyCgscx-k-3XFZrmyMMDwUa2Fi_DgLpLcec"
+    API_KEY = "YOUR_GOOGLE_ROUTES_API_KEY_HERE"
     LOCATIONS_FILE = "Coordinates_all_address.csv"
     N_NEIGHBORS = 35
     OUTPUT_DIR = "public_transport_results"
