@@ -1,0 +1,523 @@
+"","address","census tract","county","coordinates"
+"FQHC 1","100 Independence Cir,Chico,Butte","Census Tract 3","Butte County","-121.873465206952, 39.772548235146"
+"FQHC 2","1000 Newbury Rd , Newbury Park","Census Tract 59.09","Ventura County","-118.902914856415, 34.1826041709"
+"FQHC 3","1000 Skyline Blvd,Avenal,Kings","Census Tract 17.03","Kings County","-120.122421938624, 36.007393983984"
+"FQHC 4","1001 E Grand Ave,Escondido,San Diego","Census Tract 206.02","San Diego County","-117.068389018588, 33.12626353323"
+"FQHC 5","1001 Main St,Delano,Kern","Census Tract 50.05","Kern County","-119.245718422592, 35.769118767372"
+"FQHC 6","101 N Palm St,Woodlake,Tulare","Census Tract 7.02","Tulare County","-119.100199651407, 36.413962244139"
+"FQHC 7","1030 Nevin Ave,Richmond,Contra Costa","Census Tract 3770","Contra Costa County","-122.359665789383, 37.936773742411"
+"FQHC 8","1031 Waterloo Rd,Stockton,San Joaquin","Census Tract 16","San Joaquin County","-121.273180943999, 37.96628519447"
+"FQHC 9","10408 Vacco St,South El Monte,Los Angeles","Census Tract 4341","Los Angeles County","-118.045386682233, 34.047295584803"
+"FQHC 10","10418 Valley Blvd,El Monte,Los Angeles","Census Tract 4328.01","Los Angeles County","-118.045955613017, 34.076466907029"
+"FQHC 11","10561 Merritt St,Castroville,Monterey","Census Tract 104","Monterey County","-121.759585594572, 36.76694031711"
+"FQHC 12","1066 S White Rd,San Jose,Santa Clara","Census Tract 5041.02","Santa Clara County","-121.820587377314, 37.35784225132"
+"FQHC 13","10700 Macarthur Blvd,Oakland,Alameda","Census Tract 4101","Alameda County","-122.150457076285, 37.74182117323"
+"FQHC 14","1080 Emeline Ave,Santa Cruz,Santa Cruz","Census Tract 1212","Santa Cruz County","-122.017543101048, 36.992089773841"
+"FQHC 15","1100 Trancas St,Napa,Napa","Census Tract 2006.02","Napa County","-122.296894695299, 38.323422831154"
+"FQHC 16","1107 W Poplar Ave,Porterville,Tulare","Census Tract 34.01","Tulare County","-119.049829634359, 36.051228685852"
+"FQHC 17","1111 W Chase Ave,El Cajon,San Diego","Census Tract 153.02","San Diego County","-116.976308947431, 32.781461975499"
+"FQHC 18","1114 6th St,Modesto,Stanislaus","Census Tract 17","Stanislaus County","-121.005381698447, 37.638821401624"
+"FQHC 19","1119 E Monte Vista Ave,Vacaville,Solano","Census Tract 2532.05","Solano County","-121.976806195917, 38.360177418395"
+"FQHC 20","1121 E Washington Ave,Escondido,San Diego","Census Tract 202.02","San Diego County","-117.069522182976, 33.132111217833"
+"FQHC 21","1121 Hammond St,Modesto,Stanislaus","Census Tract 16.04","Stanislaus County","-121.018678710339, 37.615244106448"
+"FQHC 22","11336 Bartlett Ave,Adelanto,San Bernardino","Census Tract 91.31","San Bernardino County","-117.416901645257, 34.579247935299"
+"FQHC 23","1136 D Ave,National City,San Diego","Census Tract 117","San Diego County","-117.101744892497, 32.674073431103"
+"FQHC 24","1140 Main St,Livingston,Merced","Census Tract 3.05","Merced County","-120.72347128198, 37.379820525048"
+"FQHC 25","1141 Olive Ave,Turlock,Stanislaus","Census Tract 39.06","Stanislaus County","-120.839884710484, 37.503633289922"
+"FQHC 26","115-A Coral St,Santa Cruz,Santa Cruz","Census Tract 1003","Santa Cruz County","-122.030281861314, 36.985195365763"
+"FQHC 27","1155 W Central Ave,Santa Ana,Orange","Census Tract 740.05","Orange County","-117.883911474237, 33.712614990016"
+"FQHC 28","1187 E S St,Orland,Glenn","Census Tract 101.02","Glenn County","-122.167193655817, 39.736060458325"
+"FQHC 29","12520 Palm Dr,Desert Hot Springs,Riverside","Census Tract 445.10","Riverside County","-116.501282769142, 33.957601872759"
+"FQHC 30","1200 Maricopa Hwy,Ojai,Ventura","Census Tract 9.01","Ventura County","-119.262678392168, 34.442096778724"
+"FQHC 31","1200 W Main St,Turlock,Stanislaus","Census Tract 38.02","Stanislaus County","-120.862679268163, 37.492677671999"
+"FQHC 32","12130 Paramount Blvd,Downey,Los Angeles","Census Tract 5512.01","Los Angeles County","-118.146503839267, 33.931113019127"
+"FQHC 33","12157 Victory Blvd,North Hollywood,Los Angeles","Census Tract 1239.01","Los Angeles County","-118.399056450864, 34.186732433749"
+"FQHC 34","122 E San Antonio Dr,King City,Monterey","Census Tract 113.05","Monterey County","-121.123496054809, 36.223097054369"
+"FQHC 35","1222 Pine St,St. Helena,Napa","Census Tract 2016.02","Napa County","-122.472177260591, 38.506077440814"
+"FQHC 36","1227 W 17th St,Santa Ana,Orange","Census Tract 751","Orange County","-117.884021921376, 33.7603304573891"
+"FQHC 37","123 S Alvarado St,Los Angeles,Los Angeles","Census Tract 2085.02","Los Angeles County","-118.270647459105, 34.066258765717"
+"FQHC 38","1231 Plumas St,Yuba City,Sutter","Census Tract 501.02","Sutter County","-121.617499651982, 39.147920368281"
+"FQHC 39","12360 Firestone Blvd,Norwalk,Los Angeles","Census Tract 5522","Los Angeles County","-118.071822441611, 33.907209860106"
+"FQHC 40","125 W Thousand Oaks Blvd,Thousand Oaks,Ventura","Census Tract 69","Ventura County","-118.880220276192, 34.178488935363"
+"FQHC 41","1250 6th Ave,San Diego,San Diego","Census Tract 53.01","San Diego County","-117.159354016168, 32.718343395797"
+"FQHC 42","12540 Pierce St,Pacoima,Los Angeles","Census Tract 1041.08","Los Angeles County","-118.405650468587, 34.272732589461"
+"FQHC 43","12586 Avenue 408,Orosi,Tulare","Census Tract 2.04","Tulare County","-119.291538127952, 36.53036371463"
+"FQHC 44","12619 Bentley St,Waterford,Stanislaus","Census Tract 28.01","Stanislaus County","-120.761338666009, 37.640735501928"
+"FQHC 45","127 W El Portal Dr,Merced,Merced","Census Tract 10.06","Merced County","-120.469749324211, 37.326748423171"
+"FQHC 46","12751 Harbor Blvd,Garden Grove,Orange","Census Tract 885.02","Orange County","-117.916201637776, 33.776371546636"
+"FQHC 47","1289 S Marina Dr,Salton City,Imperial","Census Tract 123.01","Imperial County","-115.969796368022, 33.275788246304"
+"FQHC 48","1300 N Ventura Rd,Oxnard,Ventura","Census Tract 33.01","Ventura County","-119.194554855534, 34.214637888478"
+"FQHC 49","1300 N Vermont Ave,Los Angeles,Los Angeles","Census Tract 1913.02","Los Angeles County","-118.291679612177, 34.095607437635"
+"FQHC 50","1300 S Sunset Blvd,West Covina,Los Angeles","Census Tract 1976","Los Angeles County","-118.250654566626, 34.071390892647"
+"FQHC 51","1301 4th St,Napa,Napa","Census Tract 2002.02","Napa County","-122.286056114593, 38.295878566246"
+"FQHC 52","1305 Concord St,Los Angeles,Los Angeles","Census Tract 2051.20","Los Angeles County","-118.208091428479, 34.020890400456"
+"FQHC 53","131 W A St,Dixon,Solano","Census Tract 2534.02","Solano County","-121.822921096602, 38.445486596245"
+"FQHC 54","13161 Jefferson St,LE GRAND,Merced","Census Tract 19.02","Merced County","-120.250814943303, 37.229436735916"
+"FQHC 55","133 W Main St,El Cajon,San Diego","Census Tract 158.02","San Diego County","-116.962771412449, 32.794869146943"
+"FQHC 56","1330 Cardinal St,Los Angeles,Los Angeles","Census Tract 2060.10","Los Angeles County","-118.2305198757, 34.063053241469"
+"FQHC 57","1333 Meridian Ave,San Jose,Santa Clara","Census Tract 5022.02","Santa Clara County","-121.913685443235, 37.301319297953"
+"FQHC 58","13500 Airport Rd,Boonville,Mendocino","Census Tract 112","Mendocino County","-123.37925193282, 39.0132286182141"
+"FQHC 59","1381 University St,Healdsburg,Sonoma","Census Tract 1539.02","Sonoma County","-122.863805751966, 38.627476570308"
+"FQHC 60","1385 Mission St,San Miguel,San Luis Obispo","Census Tract 100.16","San Luis Obispo County","-120.69624318006, 35.752541062783"
+"FQHC 61","140 C St,Lemoore,Kings","Census Tract 4.07","Kings County","-119.782439518832, 36.3017619741813"
+"FQHC 62","140 Elm St,San Diego,San Diego","Census Tract 57","San Diego County","-117.163494568438, 32.724115533967"
+"FQHC 63","1400 N Main St,Santa Ana,Orange","Census Tract 750.03","Orange County","-117.867660110511, 33.756785435335"
+"FQHC 64","1401 S Grand Ave,Los Angeles,Los Angeles","Census Tract 2240.10","Los Angeles County","-118.265476981911, 34.037170904257"
+"FQHC 65","1405 California Ave,Dos Palos,Merced","Census Tract 24.04","Merced County","-120.629006351847, 36.986656990761"
+"FQHC 66","1411 E 31st St,Oakland,Alameda","Census Tract 4057","Alameda County","-122.233171735208, 37.799540339877"
+"FQHC 67","1418 E Main St,Santa Maria,Santa Barbara","Census Tract 22.11","Santa Barbara County","-120.414622157324, 34.952834285"
+"FQHC 68","1424 Crusado Ln,Los Angeles,Los Angeles","Census Tract 2031","Los Angeles County","-118.195333412132, 34.057694229976"
+"FQHC 69","1424 Madera Blvd,Simi Valley,Ventura","Census Tract 77","Ventura County","-118.796147121584, 34.264850475535"
+"FQHC 70","1430 Freedom Blvd,Watsonville,Santa Cruz","Census Tract 1102.02","Santa Cruz County","-121.764581882759, 36.92651732231"
+"FQHC 71","145 N Clark St,Fresno,Fresno","Census Tract 5.02","Fresno County","-119.786071809727, 36.744088482132"
+"FQHC 72","150 Tejas Pl,Nipomo,San Luis Obispo","Census Tract 124.04","San Luis Obispo County","-120.498939101128, 35.026659280549"
+"FQHC 73","1510 Florida Ave,Modesto,Stanislaus","Census Tract 13","Stanislaus County","-120.996146427364, 37.665747606278"
+"FQHC 74","1515 Fruitvale Ave,Oakland,Alameda","Census Tract 4062.02","Alameda County","-122.225297108485, 37.778978345687"
+"FQHC 75","1540 Florida Ave,Modesto,Stanislaus","Census Tract 13","Stanislaus County","-120.996151588474, 37.666266303832"
+"FQHC 76","1551 Bishop St,San Luis Obispo,San Luis Obispo","Census Tract 110.01","San Luis Obispo County","-120.646385859231, 35.274139837347"
+"FQHC 77","160 Capp St,San Francisco,San Francisco","Census Tract 201.02","San Francisco County","-122.418677419205, 37.764122453037"
+"FQHC 78","1625 E Fourth St,Los Angeles,Los Angeles","Census Tract 2060.53","Los Angeles County","-118.222543368893, 34.042984249032"
+"FQHC 79","1625 Fourth St,Los Angeles,Los Angeles","Census Tract 2091.04","Los Angeles County","-118.267846817864, 34.059581209449"
+"FQHC 80","16300 Cloverdale Rd,Happy Valley,Shasta","Census Tract 123.02","Shasta County","-122.454003233999, 40.4746437580314"
+"FQHC 81","16453 Bear Valley Rd,Hesperia,San Bernardino","Census Tract 100.11","San Bernardino County","-117.304642933208, 34.470790322792"
+"FQHC 82","1646 S Olive St,Los Angeles,Los Angeles","Census Tract 2240.10","Los Angeles County","-118.265602695546, 34.034818993375"
+"FQHC 83","1649 W Washington Blvd,Los Angeles,Los Angeles","Census Tract 2212.20","Los Angeles County","-118.293327404118, 34.040051052438"
+"FQHC 84","165 S 1st St,El Cajon,San Diego","Census Tract 157.04","San Diego County","-116.944520471689, 32.794080513351"
+"FQHC 85","16650 Hwy 76,Pauma Valley,San Diego","Census Tract 191.08","San Diego County","-116.969288314057, 33.293593358178"
+"FQHC 86","1695 N Sunrise Way,Palm Springs,Riverside","Census Tract 446.02","Riverside County","-116.528253651486, 33.844749478709"
+"FQHC 87","1704 Colorado Blvd,Los Angeles,Los Angeles","Census Tract 1814","Los Angeles County","-118.203886066602, 34.139270748191"
+"FQHC 88","17050 S Grafton St,Esparto,Yolo","Census Tract 115","Yolo County","-122.017303755104, 38.693087714741"
+"FQHC 89","1717 Las Vegas St,Modesto,Stanislaus","Census Tract 24.02","Stanislaus County","-121.002783767922, 37.606251079946"
+"FQHC 90","1721 E Hammer Ln,Stockton,San Joaquin","Census Tract 34.05","San Joaquin County","-121.291480507494, 38.020995256856"
+"FQHC 91","1735 Mission St,San Francisco,San Francisco","Census Tract 201.01","San Francisco County","-122.419897668377, 37.769598228432"
+"FQHC 92","1776 E Century Blvd,Los Angeles,Los Angeles","Census Tract 2380","Los Angeles County","-118.307578149081, 33.945402211009"
+"FQHC 93","1800 N Lake Ave,Pasadena,Los Angeles","Census Tract 4613","Los Angeles County","-118.131650561242, 34.1769434701152"
+"FQHC 94","1801 E March Ln,Stockton,San Joaquin","Census Tract 34.09","San Joaquin County","-121.288601793623, 38.002646006437"
+"FQHC 95","1809 National Ave,San Diego,San Diego","Census Tract 50","San Diego County","-117.146601806606, 32.701649170154"
+"FQHC 96","1814 W Lincoln Ave,Anaheim,Orange","Census Tract 871.03","Orange County","-117.947236064806, 33.832368818104"
+"FQHC 97","18144 Seco St,Jamestown,Tuolumne","Census Tract 51.01","Tuolumne County","-120.421914184745, 37.952536167854"
+"FQHC 98","1820 W Lincoln Ave,Anaheim,Los Angeles","Census Tract 871.03","Orange County","-117.94739554957, 33.832369858857"
+"FQHC 99","1855 N Fair Oaks Ave,Pasadena,Los Angeles","Census Tract 4609","Los Angeles County","-118.150822638791, 34.177324968757"
+"FQHC 100","1860 Howe Ave,Sacramento,Sacramento","Census Tract 55.05","Sacramento County","-121.415216307724, 38.599286806099"
+"FQHC 101","1900 E Slauson Ave,Huntington Park,Los Angeles","Census Tract 5326.07","Los Angeles County","-118.237441216646, 33.989166854923"
+"FQHC 102","1920 Marengo St,Los Angeles,Los Angeles","Census Tract 2033","Los Angeles County","-118.209975350717, 34.057683824488"
+"FQHC 103","1921 Maple Ave,Los Angeles,Los Angeles","Census Tract 2240.20","Los Angeles County","-118.26177367474, 34.029373652178"
+"FQHC 104","1970 University Ave,Riverside,Riverside","Census Tract 305.01","Riverside County","-117.354418489906, 33.975594806852"
+"FQHC 105","1993 Mckee Rd,San Jose,Santa Clara","Census Tract 5037.09","Santa Clara County","-121.856140714393, 37.361260691929"
+"FQHC 106","200 C St,Patterson,Stanislaus","Census Tract 32.04","Stanislaus County","-121.125694945336, 37.467411830123"
+"FQHC 107","200 Cottage Ave,Manteca,San Joaquin","Census Tract 51.40","San Joaquin County","-121.198169575876, 37.799523257811"
+"FQHC 108","200 S Wells Rd,Ventura,Ventura","Census Tract 12.01","Ventura County","-119.160107036621, 34.293756683428"
+"FQHC 109","2001 Dwight Way,Berkeley,Alameda","Census Tract 4229.01","Alameda County","-122.2697738216, 37.863727074674"
+"FQHC 110","201 E Lakeview Ave,Woodlake,Tulare","Census Tract 7.02","Tulare County","-119.096302430689, 36.4171957902778"
+"FQHC 111","2015 E Mariposa Rd,Stockton,San Joaquin","Census Tract 21","San Joaquin County","-121.246497968258, 37.940022080003"
+"FQHC 112","2021 Main St,Oakley,Contra Costa","Census Tract 3020.05","Contra Costa County","-121.73244203325, 38.002922321429"
+"FQHC 113","2023 Vale Rd,San Pablo,Alameda","Census Tract 3690.01","Contra Costa County","-122.338369094918, 37.953326412465"
+"FQHC 114","2031 6th St,Berkeley,Alameda","Census Tract 4232","Alameda County","-122.297182627494, 37.866478168538"
+"FQHC 115","20326 Main St,Stratford,Kings","Census Tract 16.01","Kings County","-119.823060033262, 36.18965531398"
+"FQHC 116","2044 Fair St,Stockton,San Joaquin","Census Tract 22.01","San Joaquin County","-121.264674902538, 37.933534291715"
+"FQHC 117","205 S St,Fort Bragg,Mendocino","Census Tract 105","Mendocino County","-123.803081335114, 39.4304012106334"
+"FQHC 118","2050 S Blosser Rd,Santa Maria,Santa Barbara","Census Tract 24.09","Santa Barbara County","-120.453869998011, 34.924010169401"
+"FQHC 119","210 Hospital Dr,Vallejo,Solano","Census Tract 2519.01","Solano County","-122.239800588228, 38.131126996401"
+"FQHC 120","2100 Monument Blvd,Pleasant Hill,Contra Costa","Census Tract 3240.04","Contra Costa County","-122.053263398156, 37.945437185054"
+"FQHC 121","2101 Courage Dr,Fairfield,Solano","Census Tract 2524.02","Solano County","-122.066414507975, 38.237348964854"
+"FQHC 122","2101 Tenaya Dr,Modesto,Stanislaus","Census Tract 21","Stanislaus County","-120.95902817652, 37.632445257854"
+"FQHC 123","2105 Beverly Blvd,Los Angeles,Los Angeles","Census Tract 2085.01","Los Angeles County","-118.270368211143, 34.066771235401"
+"FQHC 124","21138 Paso Robles Hwy,Lost Hills,Kern","Census Tract 45","Kern County","-119.695243816796, 35.6165478528937"
+"FQHC 125","217 Highland Ave,National City,San Diego","Census Tract 118.02","San Diego County","-117.10060679298, 32.683163081371"
+"FQHC 126","219 N Sanborn Rd,Salinas,Monterey","Census Tract 5.02","Monterey County","-121.627106546482, 36.676599485857"
+"FQHC 127","220 Hospital Dr,Vallejo,Solano","Census Tract 2519.01","Solano County","-122.23972829276, 38.131127522181"
+"FQHC 128","2201 Courage Dr,Fairfield,Solano","Census Tract 2524.02","Solano County","-122.069984503206, 38.2364874667983"
+"FQHC 129","221 Ventura Blvd,Oxnard,Ventura","Census Tract 50.05","Ventura County","-119.171429128421, 34.231459786408"
+"FQHC 130","2216 Fair St,Chico,Butte","Census Tract 13","Butte County","-121.817934034192, 39.718816187586"
+"FQHC 131","2219 E 1st St,Los Angeles,Los Angeles","Census Tract 2044.20","Los Angeles County","-118.212022394859, 34.044782111729"
+"FQHC 132","223 Bassett St,King City,Monterey","Census Tract 113.02","Monterey County","-121.124566795868, 36.212512246398"
+"FQHC 133","2240 E Gonzales Rd,Oxnard,Ventura","Census Tract 49.02","Ventura County","-119.143176589463, 34.21870381619"
+"FQHC 134","2240 Gladstone Dr,Pittsburg,Contra Costa","Census Tract 3131.02","Contra Costa County","-121.866837561158, 38.006229456451"
+"FQHC 135","2321 W Whittier Blvd,Montebello,Los Angeles","Census Tract 5320.01","Los Angeles County","-118.126105337796, 34.013726369119"
+"FQHC 136","2325 Commercial St,San Diego,San Diego","Census Tract 49","San Diego County","-117.142997332353, 32.705184319422"
+"FQHC 137","23763 Valencia Blvd,Valencia,Los Angeles","Census Tract 9201.15","Los Angeles County","-118.549693114848, 34.416009181414"
+"FQHC 138","2380 Montpelier Dr,San Jose,Santa Clara","Census Tract 5037.12","Santa Clara County","-121.847598365769, 37.365109242938"
+"FQHC 139","23832 Rockfield Blvd,Lake Forest,Orange","Census Tract 524.10","Orange County","-117.716456957301, 33.628597463881"
+"FQHC 140","240 Shotwell St,San Francisco,San Francisco","Census Tract 177","San Francisco County","-122.41639435904, 37.764573474447"
+"FQHC 141","2400 Moorpark Ave,San Jose,Santa Clara","Census Tract 5021.01","Santa Clara County","-121.936146929237, 37.316050825206"
+"FQHC 142","2400 S C St,Oxnard,Ventura","Census Tract 38.02","Ventura County","-119.181251178443, 34.177838255266"
+"FQHC 143","2401 W Turner Rd,Lodi,San Joaquin","Census Tract 41.06","San Joaquin County","-121.343073100689, 38.145730063909"
+"FQHC 144","243 Georgia St,Vallejo,Solano","Census Tract 2509","Solano County","-122.258932015034, 38.101098004787"
+"FQHC 145","250 E 18th St,Oakland,Alameda","Census Tract 4053.01","Alameda County","-122.252665902512, 37.800052534104"
+"FQHC 146","2500 Alhambra Ave,Martinez,Contra Costa","Census Tract 3180","Contra Costa County","-122.130907081628, 38.006420935193"
+"FQHC 147","2505 E Divisadero St,Fresno,Fresno","Census Tract 5.02","Fresno County","-119.78125709179, 36.74336776881"
+"FQHC 148","251 Landis Ave,Chula Vista,San Diego","Census Tract 123.02","San Diego County","-117.081505853423, 32.642660683382"
+"FQHC 149","2515 Main St,Cambria,San Luis Obispo","Census Tract 104.04","San Luis Obispo County","-121.079588063515, 35.56589951004"
+"FQHC 150","2600 MacDonald Ave,Richmond,Contra Costa","Census Tract 3810","Contra Costa County","-122.343672219255, 37.93512487933"
+"FQHC 151","263 S West St,Tulare,Tulare","Census Tract 30.02","Tulare County","-119.366828043301, 36.203182522101"
+"FQHC 152","2640 E Lafayette St,Stockton,San Joaquin","Census Tract 20","San Joaquin County","-121.251238379349, 37.958533244844"
+"FQHC 153","26926-B Cherry Hills Blvd,Menifee,Riverside","Census Tract 427.11","Riverside County","-117.190083567457, 33.710804770884"
+"FQHC 154","2720 S Bristol St,Santa Ana,Orange","Census Tract 741.11","Orange County","-117.885484665526, 33.710929016065"
+"FQHC 155","2760 3rd St,CERES,Stanislaus","Census Tract 26.02","Stanislaus County","-120.954461149069, 37.592722829256"
+"FQHC 156","278 Main St,Hamilton City,Glenn","Census Tract 105.01","Glenn County","-122.011717727504, 39.741271577124"
+"FQHC 157","2790 S Elm Ave,Fresno,Fresno","Census Tract 10","Fresno County","-119.791140245592, 36.7006761216051"
+"FQHC 158","2801 Santa Maria Way,Santa Maria,Santa Barbara","Census Tract 20.15","Santa Barbara County","-120.434819655786, 34.9088934477872"
+"FQHC 159","2801 Silver St,Anderson,Shasta","Census Tract 120","Shasta County","-122.299538275137, 40.447056763937"
+"FQHC 160","286 Euclid Ave,San Diego,San Diego","Census Tract 33.04","San Diego County","-117.085069966194, 32.70791461071"
+"FQHC 161","2880 Story Rd,San Jose,Santa Clara","Census Tract 5035.10","Santa Clara County","-121.822718446407, 37.353673837164"
+"FQHC 162","29-A Bishop Rd,Pajaro,Monterey","Census Tract 101.01","Monterey County","-121.74951997259, 36.901729478248"
+"FQHC 163","2950 International Blvd,Oakland,Alameda","Census Tract 4062.02","Alameda County","-122.22853102767, 37.779074163089"
+"FQHC 164","29632 Hwy 299E,Round Mountain,Shasta","Census Tract 126.06","Shasta County","-121.939468853708, 40.80279862551"
+"FQHC 165","301 Howard Rd,Westley,Stanislaus","Census Tract 33","Stanislaus County","-121.197917290739, 37.544920610904"
+"FQHC 166","305 E Center St,Visalia,Tulare","Census Tract 29.01","Tulare County","-119.338093328271, 36.206239158898"
+"FQHC 167","3052 Willow Pass Rd,Concord,Contra Costa","Census Tract 3310","Contra Costa County","-122.020900749607, 37.980852514729"
+"FQHC 168","3075 Mission Blvd,San Diego,San Diego","Census Tract 76.02","San Diego County","-117.250829180104, 32.769330899767"
+"FQHC 169","30979 Rd 72,Visalia,Tulare","Census Tract 9.01","Tulare County","-119.412599744194, 36.352238500425"
+"FQHC 170","311 Winston St,Los Angeles,Los Angeles","Census Tract 2062.01","Los Angeles County","-118.245028495132, 34.045550289776"
+"FQHC 171","31180 Rd 67,Goshen,Tulare","Census Tract 9.01","Tulare County","-119.411658209416, 36.35596105556"
+"FQHC 172","3124 International Blvd,Oakland,Alameda","Census Tract 4062.02","Alameda County","-122.226373422503, 37.777980704967"
+"FQHC 173","3160 E Del Mar Blvd,Pasadena,Los Angeles","Census Tract 4632","Los Angeles County","-118.08288422068, 34.142169683352"
+"FQHC 174","3177 Oceanview Blvd,San Diego,San Diego","Census Tract 39.02","San Diego County","-117.12571090838, 32.701131943384"
+"FQHC 175","3200 Senter Rd,San Jose,Santa Clara","Census Tract 5032.10","Santa Clara County","-121.833110728963, 37.293411886786"
+"FQHC 176","325 Posada Ln,Templeton,San Luis Obispo","Census Tract 127.07","San Luis Obispo County","-120.721354719819, 35.553168558237"
+"FQHC 177","3260 Kerner Blvd,San Rafael,Marin","Census Tract 1122.02","Marin County","-122.501827449719, 37.960595211945"
+"FQHC 178","329 W 8th St,Hanford,Kings","Census Tract 9.02","Kings County","-119.64959650263, 36.32706241311"
+"FQHC 179","33025 Rd 159, Ivanhoe, CA 93235","Census Tract 8.01","Tulare County","-119.218054117224, 36.389084039141"
+"FQHC 180","333 Laws Ave,Ukiah,Mendocino","Census Tract 113","Mendocino County","-123.211173546384, 39.128303359092"
+"FQHC 181","345 Spring St,Paso Robles,San Luis Obispo","Census Tract 101.03","San Luis Obispo County","-120.690857570217, 35.618831193341"
+"FQHC 182","3451 E 12th St,Oakland,Alameda","Census Tract 4061","Alameda County","-122.224003130327, 37.775958397065"
+"FQHC 183","3455 Percy St,Los Angeles,Los Angeles","Census Tract 2048.10","Los Angeles County","-118.19863543689, 34.028165169787"
+"FQHC 184","3505 Lone Tree Way,Antioch,Contra Costa","Census Tract 3080.01","Contra Costa County","-121.807233137072, 37.988211512379"
+"FQHC 185","3544 30th St,San Diego,San Diego","Census Tract 14","San Diego County","-117.130142221868, 32.743125938609"
+"FQHC 186","355 Central Ave,Fillmore,Ventura","Census Tract 3.02","Ventura County","-118.91370878644, 34.399962381423"
+"FQHC 187","3554 W Mount Whitney Ave,Riverdale,Fresno","Census Tract 77","Fresno County","-119.862098626204, 36.430865633722"
+"FQHC 188","35800 Hwy 190,Springville,Tulare","Census Tract 27.02","Tulare County","-118.814774828532, 36.133167893599"
+"FQHC 189","365 Tuolumne St,Vallejo,Solano","Census Tract 2512","Solano County","-122.238302357047, 38.103320337852"
+"FQHC 190","3690 Mission Blvd,San Diego,San Diego","Census Tract 76.01","San Diego County","-117.252557494409, 32.782308007037"
+"FQHC 191","370 N Montgomery St,San Jose,Santa Clara","Census Tract 5003","Santa Clara County","-121.904635696346, 37.336623057531"
+"FQHC 192","3801 Las Posas Rd,Camarillo,Ventura","Census Tract 52.02","Ventura County","-119.019685420898, 34.241306269682"
+"FQHC 193","3820 Martin Luther King Jr Blvd,Lynwood,Los Angeles","Census Tract 2361.01","Los Angeles County","-118.340121355624, 34.013724243207"
+"FQHC 194","3945 Whittier Blvd,Los Angeles,Los Angeles","Census Tract 5312.02","Los Angeles County","-118.188224693834, 34.023985439689"
+"FQHC 195","401 E School Ave,Visalia,Tulare","Census Tract 12","Tulare County","-119.288922308866, 36.332829673305"
+"FQHC 196","401 Lesher Dr,Merced,Merced","Census Tract 15.03","Merced County","-120.504072944986, 37.293772720436"
+"FQHC 197","401 Trinity Ave,Chowchilla,Madera","Census Tract 3.01","Madera County","-120.260873516753, 37.120593943908"
+"FQHC 198","4010 E Chapman Ave,Orange,Orange","Census Tract 758.07","Orange County","-117.810235344091, 33.787703483842"
+"FQHC 199","4050 Beyer Blvd,San Ysidro,San Diego","Census Tract 100.05","San Diego County","-117.04682889695, 32.558301584436"
+"FQHC 200","4060 Fairmount Ave,San Diego,San Diego","Census Tract 22.02","San Diego County","-117.100937575998, 32.750668227242"
+"FQHC 201","4094 4th Ave,San Diego,San Diego","Census Tract 4","San Diego County","-117.161705160152, 32.751745733306"
+"FQHC 202","4150 Patterson Rd,Riverbank,Merced","Census Tract 4.05","Stanislaus County","-120.919844394736, 37.732577013068"
+"FQHC 203","416 Spring St,Paso Robles,San Luis Obispo","Census Tract 101.03","San Luis Obispo County","-120.69059920802, 35.618565343926"
+"FQHC 204","41651 Sierra Dr,Three Rivers,Tulare","Census Tract 1.01","Tulare County","-118.905253298484, 36.438336998577"
+"FQHC 205","4171 Fairmount Ave,San Diego,San Diego","Census Tract 23.02","San Diego County","-117.100771699852, 32.752651763345"
+"FQHC 206","4177 Avenue 368, Kingsburg, CA 93631","Census Tract 3.02","Tulare County","-119.481402411476, 36.459020400254"
+"FQHC 207","41840 Enterprise Cir,Temecula,Riverside","Census Tract 512","Riverside County","-117.169871705055, 33.517586334041"
+"FQHC 208","420 S Glendora Ave,West Covina,Los Angeles","Census Tract 4065","Los Angeles County","-117.925558081711, 34.067130192763"
+"FQHC 209","423 S San Joaquin St,Stockton,San Joaquin","Census Tract 1.01","San Joaquin County","-121.286118537609, 37.948969899404"
+"FQHC 210","425 N Date St,Escondido,San Diego","Census Tract 202.02","San Diego County","-117.071433050658, 33.128780975962"
+"FQHC 211","425 W Central Ave,Lompoc,Santa Barbara","Census Tract 28.02","Santa Barbara County","-120.458837485151, 34.660899894328"
+"FQHC 212","4279 Tierra Rejada Rd,Moorpark,Ventura","Census Tract 76.07","Ventura County","-118.899879062652, 34.2681181241063"
+"FQHC 213","430 S Blosser Rd,Santa Maria,Santa Barbara","Census Tract 24.07","Santa Barbara County","-120.453664168544, 34.947316256897"
+"FQHC 214","4326 Golden Center Dr,Placerville,El Dorado","Census Tract 315.06","El Dorado County","-120.828883263122, 38.706724228304"
+"FQHC 215","436-435 Susan Dr,Doyle,Lassen","Census Tract 406","Lassen County","-120.121084480229, 40.042326507119"
+"FQHC 216","4361 Railroad Ave,Pleasanton,Alameda","Census Tract 4506.07","Alameda County","-121.873700276357, 37.661578171861"
+"FQHC 217","440 Airport Blvd,Salinas,Monterey","Census Tract 9","Monterey County","-121.616763228704, 36.665347359102"
+"FQHC 218","45 Hazel St,Willits,Mendocino","Census Tract 107","Mendocino County","-123.35192533006, 39.399736076341"
+"FQHC 219","45 Nielson St,Watsonville,Santa Cruz","Census Tract 1106.01","Santa Cruz County","-121.79254841839, 36.928229656885"
+"FQHC 220","450 W Clara St,Oxnard,Ventura","Census Tract 45.08","Ventura County","-119.182219009342, 34.15112896511"
+"FQHC 221","452 S Main St,Los Angeles,Los Angeles","Census Tract 2073.06","Los Angeles County","-118.247986592452, 34.047178387881"
+"FQHC 222","455 W Montana St,Pasadena,Los Angeles","Census Tract 4609","Los Angeles County","-118.160589074002, 34.180898878732"
+"FQHC 223","460 N Elm St,Escondido,San Diego","Census Tract 202.02","San Diego County","-117.072676877045, 33.128210910938"
+"FQHC 224","4641 Missouri Flat Rd,Placerville,El Dorado","Census Tract 315.06","El Dorado County","-120.823698399655, 38.69570400365"
+"FQHC 225","4650 W Sunset Blvd,Los Angeles,Los Angeles","Census Tract 1913.02","Los Angeles County","-118.29068926834, 34.098098260622"
+"FQHC 226","4725 Market St,San Diego,San Diego","Census Tract 34.04","San Diego County","-117.092640057001, 32.710988189169"
+"FQHC 227","4874 Polk Ave,San Diego,San Diego","Census Tract 27.07","San Diego County","-117.089742278653, 32.751385526963"
+"FQHC 228","500 E Main St,Santa Paula,Ventura","Census Tract 6","Ventura County","-119.068818258283, 34.351107709608"
+"FQHC 229","501 N Bridge St,Visalia,Tulare","Census Tract 11.01","Tulare County","-119.289074392711, 36.33385258187"
+"FQHC 230","5059 York Blvd,Los Angeles,Los Angeles","Census Tract 1834.01","Los Angeles County","-118.205622764396, 34.121292296211"
+"FQHC 231","517 S Madera Ave,Kerman,Fresno","Census Tract 40.03","Fresno County","-120.060299218825, 36.726660238806"
+"FQHC 232","522 S San Pedro St,Los Angeles,Los Angeles","Census Tract 2063.03","Los Angeles County","-118.244140679193, 34.043702198143"
+"FQHC 233","5220 Claremont Ave,Oakland,Alameda","Census Tract 4003","Alameda County","-122.261180797627, 37.838638271302"
+"FQHC 234","525 E Main St,El Cajon,San Diego","Census Tract 158.02","San Diego County","-116.955733414853, 32.794866923531"
+"FQHC 235","5275 Claremont Ave,Oakland,Alameda","Census Tract 4003","Alameda County","-122.260984962705, 37.839117363179"
+"FQHC 236","5335 Lakeshore Blvd,Lakeport,Lake","Census Tract 3","Lake County","-122.903209728457, 39.105753809472"
+"FQHC 237","535 S Second Ave,Covina,Los Angeles","Census Tract 4061.03","Los Angeles County","-117.887950509549, 34.080161882472"
+"FQHC 238","5400 Telegraph Ave,Alameda,Alameda","Census Tract 4003","Alameda County","-118.899879062652, 34.2681181241063"
+"FQHC 239","5425 Pomona Blvd,Los Angeles,Los Angeles","Census Tract 5304","Los Angeles County","-118.147344493012, 34.033492934063"
+"FQHC 240","5427 E Whittier Blvd,Los Angeles,Los Angeles","Census Tract 5317.01","Los Angeles County","-118.153426701165, 34.019639442411"
+"FQHC 241","5454 El Cajon Blvd,San Diego,San Diego","Census Tract 28.04","San Diego County","-117.077704021458, 32.758126574746"
+"FQHC 242","550 E Washington Blvd,Crescent City,Del Norte","Census Tract 1.04","Del Norte County","-124.198168703563, 41.772765430848"
+"FQHC 243","55497 Van Buren St,Thermal,Riverside","Census Tract 456.15","Riverside County","-116.198822593872, 33.644676305484"
+"FQHC 244","600 Nut Tree Rd,Vacaville,Solano","Census Tract 2529.11","Solano County","-121.949618713866, 38.361389799367"
+"FQHC 245","601 S San Pedro St,Los Angeles,Los Angeles","Census Tract 2063.02","Los Angeles County","-118.24533617428, 34.042241473448"
+"FQHC 246","612 Spring Rd,Moorpark,Ventura","Census Tract 76.11","Ventura County","-118.874588100772, 34.281202949576"
+"FQHC 247","616 16th St,Oakland,Alameda","Census Tract 4028.02","Alameda County","-122.274354711468, 37.807284497144"
+"FQHC 248","6336 Passons Blvd,Pico Rovera,Los Angeles","Census Tract 5008","Los Angeles County","-118.08579615125, 33.98578787761"
+"FQHC 249","637 Merced St,Newman,Stanislaus","Census Tract 35.01","Stanislaus County","-121.016926598076, 37.314651554187"
+"FQHC 250","65 Third St,Point Reyes Station,Marin","Census Tract 1330","Marin County","-122.806724915017, 38.067824755522"
+"FQHC 251","650 Meta St,Oxnard,Ventura","Census Tract 91","Ventura County","-119.17590925326, 34.195666867305"
+"FQHC 252","6550 Front St,Forestville,Sonoma","Census Tract 1537.11","Sonoma County","-122.89119660957, 38.473569005571"
+"FQHC 253","678 3rd Ave,Chula Vista,San Diego","Census Tract 130","San Diego County","-117.074860507663, 32.628217230421"
+"FQHC 254","680 Fairplex Dr,Pomona,Los Angeles","Census Tract 4024.06","Los Angeles County","-117.787481727175, 34.062459981606"
+"FQHC 255","6901 S Atlantic Ave,Bell Gardens,Los Angeles","Census Tract 5336.03","Los Angeles County","-118.187741140771, 33.973730602332"
+"FQHC 256","69175 Ramon Rd,Cathedral City,Riverside","Census Tract 9406","Riverside County","-116.456660906124, 33.815916775553"
+"FQHC 257","701 E Cesar E Chavez Ave,Los Angeles,Los Angeles","Census Tract 2060.20","Los Angeles County","-118.229662434318, 34.05597794739"
+"FQHC 258","701 E Channel St,Stockton,San Joaquin","Census Tract 1.02","San Joaquin County","-121.28244130949, 37.956050832656"
+"FQHC 259","701 W Cesar E Chavez Ave,Los Angeles,Los Angeles","Census Tract 2071.01","Los Angeles County","-118.243885346195, 34.060702162476"
+"FQHC 260","7107 Remmet Ave,Canoga Park,Los Angeles","Census Tract 1345.20","Los Angeles County","-118.600342914937, 34.19936461681"
+"FQHC 261","721 Calaveras St,Lodi,San Joaquin","Census Tract 45.01","San Joaquin County","-121.265729181713, 38.142855181234"
+"FQHC 262","721 E 5th St,Los Angeles,Los Angeles","Census Tract 2062.02","Los Angeles County","-118.241819787332, 34.043003906352"
+"FQHC 263","7210 Murray Dr,Stockton,San Joaquin","Census Tract 34.07","San Joaquin County","-121.300796703613, 38.015578397658"
+"FQHC 264","727 Wilson St,Los Angeles,Los Angeles","Census Tract 2060.51","Los Angeles County","-118.233970020338, 34.034361708412"
+"FQHC 265","728 E Valley Parkway,Escondido,San Diego","Census Tract 202.02","San Diego County","-117.073552266485, 33.127520859181"
+"FQHC 266","730 Central Ave,Tracy,San Joaquin","Census Tract 52.23","San Joaquin County","-121.547362184526, 37.769156250342"
+"FQHC 267","730 N Farmersville Blvd,Farmersville,Tulare","Census Tract 4.07","Kings County","-119.206885505341, 36.301567428208"
+"FQHC 268","7512 Morro Rd,Atascadero,San Luis Obispo","Census Tract 126.01","San Luis Obispo County","-120.66743412846, 35.477468848493"
+"FQHC 269","77 Casa St,San Luis Obispo,San Luis Obispo","Census Tract 109.02","San Luis Obispo County","-120.665192764135, 35.29320129067"
+"FQHC 270","7843 Lankershim Blvd,North Hollywood,Los Angeles","Census Tract 1218.02","Los Angeles County","-118.387848059998, 34.212857891079"
+"FQHC 271","7967 Broadway Ave,Lemon Grove,San Diego","Census Tract 144","San Diego County","-117.027188994849, 32.74271024337"
+"FQHC 272","797 W Childs Ave,Merced,Merced","Census Tract 15.03","Merced County","-120.496895950991, 37.288258698218"
+"FQHC 273","7970 Lander Ave,Hilmar,Merced","Census Tract 4.03","Merced County","-120.850058318688, 37.403597737346"
+"FQHC 274","799 Front St,Soledad,Monterey","Census Tract 111.04","Monterey County","-121.326194629795, 36.424974953933"
+"FQHC 275","801 S Chevy Chase Dr,Glendale,Los Angeles","Census Tract 3021.02","Los Angeles County","-118.239649100696, 34.137090485903"
+"FQHC 276","8041 Newman Ave,Huntington Beach,Orange","Census Tract 992.12","Orange County","-117.988629090674, 33.704854464193"
+"FQHC 277","808 Oak Ave,Greenfield,Monterey","Census Tract 112.03","Monterey County","-121.242582895283, 36.321347593226"
+"FQHC 278","815 Dr Martin Luther King Jr Blvd,Bakersfield,Kern","Census Tract 22.02","Kern County","-118.98516881531, 35.365067973099"
+"FQHC 279","818 Webster St,Oakland,Alameda","Census Tract 4030","Alameda County","-122.271238461751, 37.799392631327"
+"FQHC 280","821 Texas Ave,Los Banos,Merced","Census Tract 22.01","Merced County","-120.860514728783, 37.064420795487"
+"FQHC 281","823 Gateway Center Way,San Diego,San Diego","Census Tract 34.03","San Diego County","-117.113935427524, 32.714955633673"
+"FQHC 282","835 Webster St,Oakland,Alameda","Census Tract 4030","Alameda County","-122.271310648012, 37.799538416448"
+"FQHC 283","8465 Old Redwood Hwy,Windsor,Sonoma","Census Tract 1538.08","Sonoma County","-122.801495722728, 38.543908871183"
+"FQHC 284","847 W Childs Ave,Merced,Merced","Census Tract 15.03","Merced County","-120.497056385979, 37.288258255994"
+"FQHC 285","8627 Atlantic Ave,South Gate,Los Angeles","Census Tract 5360","Los Angeles County","-118.183735604126, 33.954461404442"
+"FQHC 286","8788 Jamacha Rd,Spring Valley,San Diego","Census Tract 139.06","San Diego County","-117.009805863782, 32.714845527253"
+"FQHC 287","88 Mesa Rd,Bolinas,Marin","Census Tract 1321","Marin County","-122.699109822527, 37.909829635881"
+"FQHC 288","8856 Arlington Ave,Riverside,Riverside","Census Tract 411.01","Riverside County","-117.467297663063, 33.946461816494"
+"FQHC 289","8902 Woodman Ave,Arleta,Los Angeles","Census Tract 1198.01","Los Angeles County","-118.437381050726, 34.231365754436"
+"FQHC 290","9 Crestview Dr,Watsonville,Santa Cruz","Census Tract 1102.02","Santa Cruz County","-121.764318431759, 36.926673367905"
+"FQHC 291","900 Fallon St,Oakland,Alameda","Census Tract 4033.02","Alameda County","-122.263773684921, 37.797195043854"
+"FQHC 292","903 E Devonshire Ave,Hemet,Riverside","Census Tract 434.01","Riverside County","-116.962222645475, 33.751173091721"
+"FQHC 293","911 Washington St,Calistoga,Napa","Census Tract 2020","Napa County","-122.577066517571, 38.57804387709"
+"FQHC 294","9140 Van Nuys Blvd,Panorama City,Los Angeles","Census Tract 1193.41","Los Angeles County","-118.450177507916, 34.236176949984"
+"FQHC 295","935 Market St,Yuba City,Sutter","Census Tract 501.01","Sutter County","-121.614415362302, 39.144866738539"
+"FQHC 296","9416 Rd 238, Terra Bella, CA 93270","Census Tract 45","Tulare County","-119.039959419037, 35.960519012316"
+"FQHC 297","9436 E Slauson Ave,Pico Rivera,Los Angeles","Census Tract 5026.03","Los Angeles County","-118.096877042234, 33.968377302046"
+"FQHC 298","950 Circle Dr,Salinas,Monterey","Census Tract 5.02","Monterey County","-121.626232969408, 36.679436931946"
+"FQHC 299","950 S Euclid Ave,San Diego,San Diego","Census Tract 33.05","San Diego County","-117.085175971449, 32.696326773932"
+"FQHC 300","9933 MacArthur Blvd,Oakland,Alameda","Census Tract 4102","Alameda County","-122.156742443935, 37.746482609226"
+"FQHC 301","995 Potrero Ave,San Francisco,San Francisco","Census Tract 228.02","San Francisco County","-122.40663821554, 37.756926145551"
+"PPHC 1","330 S. Garfield Avenue, 3rd Fl. - Suite 300
+Alhambra, CA 91801","Census Tract 4810.02","Los Angeles County","-118.124462111826 34.091839237384"
+"PPHC 2","303 W. Lincoln Ave., #105
+Anaheim, CA 92805","Census Tract 873.01","Orange County","-117.917893314918 33.834935696791"
+"PPHC 3","3670 Delta Fair Boulevard
+Antioch, CA 94509","Census Tract 3072.01","Contra Costa County","-121.843167363707 38.004117566072"
+"PPHC 4","2633 16th Street
+Bakersfield, CA 93301","Census Tract 17","Kern County","-119.032107453639 35.372333393213"
+"PPHC 5","4070 Sterling Way
+Baldwin Park, CA 91706
+","Census Tract 4052.02","Los Angeles County","-117.963199172656 34.08503575075"
+"PPHC 6","916 W Burbank Blvd. #M
+Burbank, CA 91506","Census Tract 3108","Los Angeles County","-118.323353205967 34.183616622264"
+"PPHC 7","21001 Sherman Way #9
+Canoga Park, CA 91303","Census Tract 1345.21","Los Angeles County","-118.593336768342 34.201093279146"
+"PPHC 8","661 East University Drive
+Carson, CA 90746","Census Tract 5433.21","Los Angeles County","-118.264099744298 33.858322462316"
+"PPHC 9","3100 Cohasset Rd.
+Chico, CA 95973","Census Tract 1.04","Butte County","-121.843528671421 39.771808976455"
+"PPHC 10","1295 Broadway #201
+Chula Vista, CA 91911","Census Tract 132.06","San Diego County","-117.078978338086 32.60438088821"
+"PPHC 11","14671 Olympic Drive
+Clearlake, CA 95422","Census Tract 8.02","Lake County","-122.638266634222 38.961782489939"
+"PPHC 12","49092 Las Cruces St, Coachella, CA 92236","Census Tract 9404","Riverside County","-116.186556947708 33.692074654329"
+"PPHC 13","4402 East Compton Blvd
+Compton, CA 90221","Census Tract 5421.06","Los Angeles County","-118.194409872989 33.896089771363"
+"PPHC 14","2185 Pacheco Street
+Concord, CA 94520","Census Tract 3280","Contra Costa County","-122.034487953081 37.978837649495"
+"PPHC 15","2079 Compton Avenue Suite #104
+Corona, CA 92881","Census Tract 419.09","Riverside County","-117.536124110386 33.850442826104"
+"PPHC 16","1520 Nutmeg Place Suite 101
+Costa Mesa, CA 92626","Census Tract 638.06","Orange County","-117.92078989457 33.682030463032"
+"PPHC 17","1685 E. Main Street #301
+El Cajon, CA 92021","Census Tract 164.01","San Diego County","-116.918957358064 32.811554701791"
+"PPHC 18","1463 South 4th Street
+El Centro, CA 92243","Census Tract 117","Imperial County","-115.552408843454 32.7802754446"
+"PPHC 19","280 El Cerrito Plaza
+El Cerrito, CA 94530","Census Tract 3891","Contra Costa County","-122.299853255528 37.900343777711"
+"PPHC 20","4786 N. Peck Road, Ste. B
+El Monte, CA 91732","Census Tract 4326.01","Los Angeles County","-118.014557916215 34.090653545073"
+"PPHC 21","347 W. Mission Avenue
+Escondido, CA 92025","Census Tract 202.14","San Diego County","-117.089921924706 33.128880529598"
+"PPHC 22","3225 Timber Fall Court Suite B
+Eureka, CA 95503","Census Tract 7","Humboldt County","-124.135598215053 40.778873662045"
+"PPHC 23","1325 Travis Blvd. #C
+Fairfield, CA 94533","Census Tract 2524.01","Solano County","-122.051645393622 38.257956771463"
+"PPHC 24","6095 N. 1st Street
+Fresno, CA 93710","Census Tract 54.05","Fresno County","-119.772320238935 36.824338468829"
+"PPHC 25","760 Renz Lane
+Gilroy, CA 95020","Census Tract 5126.02","Santa Clara County","-121.557692941537 37.006792283237"
+"PPHC 26","130 W Route 66
+Glendora, CA 91740","Census Tract 4011.01","Los Angeles County","-117.863390694417 34.12862181826"
+"PPHC 27","1032 A Street
+Hayward, CA 94541","Census Tract 4354","Alameda County","-122.083362090963 37.674348501338"
+"PPHC 28","1780 E. Florida Ave
+Hemet, CA 92544","Census Tract 433.09","Riverside County","-116.95327990801 33.747703402295"
+"PPHC 29","2550 E. Slauson Ave
+Huntington Park, CA 90255","Census Tract 5326.05","Los Angeles County","-118.226408251346 33.989157854302"
+"PPHC 30","905 N. La Brea Avenue
+Inglewood, CA 90302","Census Tract 6013.03","Los Angeles County","-118.357706975749 33.974694426823"
+"PPHC 31","3224 W. Olympic Blvd, Suite 101
+Koreatown, CA 90006","Census Tract 2132.01","Los Angeles County","-118.306872899879 34.052562952498"
+"PPHC 32","5525 Del Amo Blvd.
+Lakewood, CA 90713","Census Tract 5709.02","Los Angeles County","-118.124584386573 33.847108455784"
+"PPHC 33"," Lawndale, CA
+14623 Hawthorne Blvd. #300
+Lawndale, CA 90260","Census Tract 6039.01","Los Angeles County","-118.352805564747 33.899163862594"
+"PPHC 34","2690 Pacific Avenue, Unit 260
+Long Beach, CA 90806","Census Tract 5722.02","Los Angeles County","-118.193634374518 33.806003701306"
+"PPHC 35","2690 Pacific Avenue, Ste. 370
+Long Beach, CA 90806","Census Tract 5722.02","Los Angeles County","-118.193634374518 33.806003701306"
+"PPHC 36","8520 So. Broadway
+Los Angeles, CA 90003","Census Tract 2397.02","Los Angeles County","-118.278214156824 33.961278864486"
+"PPHC 37","1057 Kingston Avenue
+Los Angeles, CA 90033","Census Tract 2033","Los Angeles County","-118.209708987213 34.056844959293"
+"PPHC 38","5068 Whittier Blvd.
+Los Angeles, CA 90022","Census Tract 5316.02","Los Angeles County","-118.160297683937 34.020984788991"
+"PPHC 39","3637 S. La Brea Ave
+Los Angeles, CA 90016","Census Tract 2360.01","Los Angeles County","-118.35567235952 34.020911148152"
+"PPHC 40","400 West 30th Street
+Los Angeles, CA 90007","Census Tract 2246","Los Angeles County","-118.27570584063 34.023959967135"
+"PPHC 41","1014 1/2 N Vermont Ave
+Los Angeles, CA 90029","Census Tract 1914.10","Los Angeles County","-118.291662424327 34.089946971918"
+"PPHC 42","5903 N. Figueroa Street
+Los Angeles, CA 90042","Census Tract 1836.20","Los Angeles County","-118.19076163848 34.110658445688"
+"PPHC 43","500 E. Almond Suite #1
+Madera, CA 93637","Census Tract 5.10","Madera County","-120.052810036627 36.945481467799"
+"PPHC 44","965 E. Yosemite Avenue Suite #2
+Manteca, CA 95336","Census Tract 51.40","San Joaquin County","-121.203206710283 37.797505260997"
+"PPHC 45","3166 Collins Dr.
+Merced, CA 95348","Census Tract 10.04","Merced County","-120.476577048365 37.320961021131"
+"PPHC 46","26137 La Paz Rd., #200
+Mission Viejo, CA 92691","Census Tract 320.15","Orange County","-117.675877437532 33.599108847222"
+"PPHC 47","1431 McHenry Avenue, Suite 100
+Modesto, CA 95350","Census Tract 13","Stanislaus County","-120.994009935959 37.664741690456"
+"PPHC 48","2500 California Street
+Mountain View, CA 94040","Census Tract 5094.04","Santa Clara County","-122.106137758818 37.403127356658"
+"PPHC 49","25130 Hancock Avenue, Suite 100
+Murrieta, CA 92562","Census Tract 432.06","Riverside County","-117.182402334327 33.568003083305"
+"PPHC 50","935 Trancas Street Unit 4D
+Napa, CA 94558","Census Tract 2005.04","Napa County","-122.294143662856 38.323785439896"
+"PPHC 51","5700 Watt Ave.
+North Highlands, CA 95660","Census Tract 73.01","Sacramento County","-121.382805667642 38.670334368975"
+"PPHC 52","1400 Broadway
+Oakland, CA 94612","Census Tract 4029","Alameda County","-122.271045724227 37.804332161792"
+"PPHC 53","700 S. Tustin St.
+Orange, CA 92866","Census Tract 758.06","Orange County","-117.835805835357 33.778215856083"
+"PPHC 54","2651 South C St Suite 100
+Oxnard, CA 93033","Census Tract 38.02","Ventura County","-119.181256953606 34.175291370355"
+"PPHC 55","533 E. Palmdale Boulevard, Ste. A1
+Palmdale, CA 93550","Census Tract 9104.05","Los Angeles County","-118.1200605461 34.57970231378"
+"PPHC 56","1045 N. Lake Ave.
+Pasadena, CA 91104","Census Tract 4621","Los Angeles County","-118.132520870016 34.164129247005"
+"PPHC 57","1550 N Garey Avenue
+Pomona, CA 91767","Census Tract 4026.02","Los Angeles County","-117.752152223181 34.073449409538"
+"PPHC 58","71777 San Jacinto Drive, Suite 202
+Rancho Mirage, CA 92270","Census Tract 451.03","Riverside County","-116.412733468322 33.744257968908"
+"PPHC 59","2935 Bechelli Lane
+Redding, CA 96002","Census Tract 109","Shasta County","-122.362474119333 40.564122242475"
+"PPHC 60","2907 CA-82, Redwood City, CA 94061","Census Tract 6102.03","San Mateo County","-122.223155168934 37.476291821854"
+"PPHC 61","2970 Hilltop Mall Road #307
+Richmond, CA 94806","Census Tract 3650.03","Contra Costa County","-122.330383652995 37.978282283946"
+"PPHC 62","3772 Tibbetts Street
+Riverside, CA 92506","Census Tract 311","Riverside County","-117.399337841116 33.947220547428"
+"PPHC 63","729 Sunrise Ave. Suite 900
+Roseville, CA 95661","Census Tract 207.12","Placer County","-121.271961393819 38.734108185975"
+"PPHC 64","201 29th Street, Ste. B
+Sacramento, CA 95816","Census Tract 4","Sacramento County","-121.463926888375 38.582376935967"
+"PPHC 65","1125 10th Street
+Sacramento, CA 95814","Census Tract 11.03","Sacramento County","-121.493949917169 38.579014085745"
+"PPHC 66","5385 Franklin Blvd., Suite A-D
+Sacramento, CA 95820","Census Tract 37","Sacramento County","-121.472482049028 38.528101222712"
+"PPHC 67","316 N. Main Street
+Salinas, CA 93901","Census Tract 18.02","Monterey County","-121.653430631221 36.682473867872"
+"PPHC 68","1873 S. Commercenter Dr. W.
+San Bernardino, CA 92408","Census Tract 124","San Bernardino County","-117.285258768979 34.067840613438"
+"PPHC 69","220 Euclid Ave, Suite 30
+San Diego, CA 92114","Census Tract 33.04","San Diego County","-117.085071927133 32.706572542005"
+"PPHC 70","2017 First Avenue Suite 100
+San Diego, CA 92101","Census Tract 57","San Diego County","-117.163832491061 32.726347750795"
+"PPHC 71","4305 University Avenue, #350
+San Diego, CA 92105","Census Tract 24.02","San Diego County","-117.101845916617 32.7495609364"
+"PPHC 72","10717 Camino Ruiz Suite #258
+San Diego, CA 92126","Census Tract 83.57","San Diego County","-117.143819774828 32.913240418085"
+"PPHC 73","7035 Convoy Ct.
+San Diego, CA 92111","Census Tract 85.11","San Diego County","-117.16429797253 32.834597225355"
+"PPHC 74","4575 College Ave
+San Diego, CA 92115","Census Tract 29.02","San Diego County","-117.066582302515 32.76004674462"
+"PPHC 75","1522 Bush Street
+San Francisco, CA 94109","Census Tract 151","San Francisco County","-122.422468954344 37.788481989082"
+"PPHC 76","5440 Thornwood Drive
+San Jose, CA 95123","Census Tract 5120.27","Santa Clara County","-121.860004603806 37.253083398642"
+"PPHC 77","3131 Alum Rock Avenue
+San Jose, CA 95127","Census Tract 5039.02","Santa Clara County","-121.827574712332 37.366199925173"
+"PPHC 78","1691 The Alameda
+San Jose, CA 95126","Census Tract 5006","Santa Clara County","-121.919155541953 37.337400046796"
+"PPHC 79","1694 Tully Road Suite 40
+San Jose, CA 95122","Census Tract 5033.04","Santa Clara County","-121.826025719039 37.322221807962"
+"PPHC 80","743 Pismo Street
+San Luis Obispo, CA 93401","Census Tract 111.04","San Luis Obispo County","-120.661597365205 35.277025540905"
+"PPHC 81","29 Baywood Ave
+San Mateo, CA 94402","Census Tract 6064","San Mateo County","-122.328877741363 37.564766787395"
+"PPHC 82","2 H Street
+San Rafael, CA 94901","Census Tract 1110.02","Marin County","-122.538540483217 37.974238635528"
+"PPHC 83","200 Porter Drive, Suite 200
+San Ramon, CA 94583","Census Tract 3452.05","Contra Costa County","-121.991033315152 37.773570815167"
+"PPHC 84","1421 E. 17th St.
+Santa Ana, CA 92705","Census Tract 754.04","Orange County","-117.849710271631 33.760076275069"
+"PPHC 85","518 Garden Street
+Santa Barbara, CA 93101","Census Tract 9","Santa Barbara County","-119.692320062442 34.420229680029"
+"PPHC 86","1119 Pacific Ave. Suite 200
+Santa Cruz, CA 95060","Census Tract 1010.02","Santa Cruz County","-122.025601304383 36.971907810285"
+"PPHC 87","501 E Chapel Street
+Santa Maria, CA 93454","Census Tract 22.06","Santa Barbara County","-120.43003505066 34.954370737902"
+"PPHC 88","1316 3rd Street Promenade #201
+Santa Monica, CA 90401","Census Tract 7019.02","Los Angeles County","-118.497418650929 34.016703921368"
+"PPHC 89","1140 Sonoma Avenue Building 3
+Santa Rosa, CA 95405","Census Tract 1518","Sonoma County","-122.699991364665 38.441077802519"
+"PPHC 90","625 Hilby Ave.
+Seaside, CA 93955","Census Tract 140","Monterey County","-121.850664039657 36.602287411297"
+"PPHC 91","435 Grand Avenue
+South San Francisco, CA 94080","Census Tract 6022.02","San Mateo County","-122.413954404848 37.655960596346"
+"PPHC 92","4555 Precissi Lane
+Stockton, CA 95207","Census Tract 31.16","San Joaquin County","-121.315073914634 37.988737220259"
+"PPHC 93","678 N Wilson Way #G
+Stockton, CA 95205","Census Tract 16","San Joaquin County","-121.273711550737 37.964024986889"
+"PPHC 94","1200 Hillcrest, Thousand Oaks, CA 91320","Census Tract 71","Ventura County","-118.858877567637 34.181025921329"
+"PPHC 95","1441 N. Tracy Blvd.
+Tracy, CA 95376","Census Tract 53.08","San Joaquin County","-121.435137123949 37.743984857314"
+"PPHC 96","242-A Hospital Drive
+Ukiah, CA 95482","Census Tract 115.02","Mendocino County","-123.203719505653 39.15246158679"
+"PPHC 97","918 W. Foothill Blvd., #A
+Upland, CA 91786","Census Tract 8.24","San Bernardino County","-117.663260882061 34.106917648967"
+"PPHC 98","303 Sacramento Street
+Vallejo, CA 94590","Census Tract 2509","Solano County","-122.258388773505 38.100738102459"
+"PPHC 99","7100 Van Nuys Blvd. #108
+Van Nuys, CA 91405","Census Tract 1279.10","Los Angeles County","-118.448688992278 34.199422435201"
+"PPHC 100","5400 Ralston Street
+Ventura, CA 93003","Census Tract 15.09","Ventura County","-119.217835894464 34.259679254358"
+"PPHC 101","15403 Park Ave. E.
+Victorville, CA 92392","Census Tract 99.14","San Bernardino County","-117.326521743668 34.506453058377"
+"PPHC 102","
+211 N. Stevenson Street
+Visalia, CA 93291","Census Tract 12","Tulare County","-119.300013051494 36.331567331387"
+"PPHC 103","1964 Via Centre
+Vista, CA 92081","Census Tract 198.05","San Diego County","-117.28365022619 33.184003125505"
+"PPHC 104","1357 Oakland Blvd.
+Walnut Creek, CA 94596","Census Tract 3390.03","Contra Costa County","-122.0702292033 37.89776665253"
+"PPHC 105","398 South Green Valley Road
+Watsonville, CA 95076","Census Tract 1105.03","Santa Cruz County","-121.776993027591 36.93034445531"
+"PPHC 106","869 Westbourne Dr.
+West Hollywood, CA 90069","Census Tract 7004","Los Angeles County","-118.379689814308 34.086225166167"
+"PPHC 107","14372 Beach Blvd.
+Westminster, CA 92683","Census Tract 998.03","Orange County","-117.989432968146 33.753179220268"
+"PPHC 108","7655 Greenleaf Ave
+Whittier, CA 90602","Census Tract 5018.03","Los Angeles County","-118.037435310815 33.972665942859"
+"PPHC 109","520 Cottonwood Street Suite 10
+Woodland, CA 95695
+","Census Tract 110.01","Yolo County","-121.793402030273 38.675413196458"
+"PPHC 110","430 Palora Ave. #G
+Yuba City, CA 95991","Census Tract 502.01","Sutter County","-121.633436098371 39.128166707304"
